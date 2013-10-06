@@ -30,6 +30,7 @@ pathmap_INCL := \
     bluedroid:system/bluetooth/bluedroid/include \
     bluez:external/bluetooth/bluez \
     glib:external/bluetooth/glib \
+    dbus:external/dbus \
     bootloader:bootable/bootloader/legacy/include \
     camera:system/media/camera/include \
     corecg:external/skia/include/core \
